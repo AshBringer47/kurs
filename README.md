@@ -1,2 +1,2 @@
-# kurs
-tehnicheskaya mehanica 2 kurs
+# Course
+technical mechanics, 2 course
